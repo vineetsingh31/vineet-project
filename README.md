@@ -1,3 +1,3 @@
 # vineet-project
 this is my first Git Repository.
-Author-Vineet Singh
+Author-Vineet (Singh dhiraj)
